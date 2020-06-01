@@ -139,7 +139,7 @@ section {
 }
 
 .section-title {
-    font0-size: 55px;
+    font-size: 55px;
     color: #024e76;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
@@ -226,3 +226,27 @@ section {
     line-height: 1.3;
 
 }
+
+.contact h2 {
+    color: #fce138;
+ }
+
+ .contact {
+     background-color: #024e76;
+     text-align: center;
+ }
+
+ .contact-info iframe {
+     width: 400px;
+     height: 400px;
+     float: left;
+ }
+
+ .contact-info div {
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+    color: white;
+ }
